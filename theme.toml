@@ -6,7 +6,7 @@ homepage = "https://github.com/pfadfinder-konstanz/hugo-dpsg/"
 demosite = "https://pfadfinder-konstanz.github.io/hugo-dpsg/"
 tags = ["blog", "responsive", "customizable", "widgets", "rss"]
 features = ["blog", "responsive", "widgets", "rss", "wordpress"]
-min_version = "0.132"
+min_version = "0.124.1"
 
 # If the theme has multiple authors
 authors = [
