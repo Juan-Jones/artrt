@@ -2,9 +2,7 @@
 baseurl = "https://pfadfinder-konstanz.github.io/hugo-dpsg/"
 title = "Hugo DPSG"
 paginate = "10" # Number of posts per page
-theme = "hugo-dpsg"
-# Change/remove themesDir, the current location is for deploying the demo page only
-themesDir = "../.."
+theme = "artrt"
 # Language settings
 languageCode = "en"
 DefaultContentLanguage = "en"
